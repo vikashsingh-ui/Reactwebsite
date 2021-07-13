@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Reactwebsite/static/css/main.3aad04ee.chunk.css",
+    "main.js": "/Reactwebsite/static/js/main.9a3d5e1e.chunk.js",
+    "main.js.map": "/Reactwebsite/static/js/main.9a3d5e1e.chunk.js.map",
+    "runtime-main.js": "/Reactwebsite/static/js/runtime-main.0e867802.js",
+    "runtime-main.js.map": "/Reactwebsite/static/js/runtime-main.0e867802.js.map",
+    "static/css/2.8885c1cd.chunk.css": "/Reactwebsite/static/css/2.8885c1cd.chunk.css",
+    "static/js/2.ebf145b1.chunk.js": "/Reactwebsite/static/js/2.ebf145b1.chunk.js",
+    "static/js/2.ebf145b1.chunk.js.map": "/Reactwebsite/static/js/2.ebf145b1.chunk.js.map",
+    "index.html": "/Reactwebsite/index.html",
+    "static/css/2.8885c1cd.chunk.css.map": "/Reactwebsite/static/css/2.8885c1cd.chunk.css.map",
+    "static/css/main.3aad04ee.chunk.css.map": "/Reactwebsite/static/css/main.3aad04ee.chunk.css.map",
+    "static/js/2.ebf145b1.chunk.js.LICENSE.txt": "/Reactwebsite/static/js/2.ebf145b1.chunk.js.LICENSE.txt",
+    "static/media/boy.3c06d413.gif": "/Reactwebsite/static/media/boy.3c06d413.gif",
+    "static/media/monkey.188e77fe.gif": "/Reactwebsite/static/media/monkey.188e77fe.gif",
+    "static/media/prakash.53b4aaeb.jpg": "/Reactwebsite/static/media/prakash.53b4aaeb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e867802.js",
+    "static/css/2.8885c1cd.chunk.css",
+    "static/js/2.ebf145b1.chunk.js",
+    "static/css/main.3aad04ee.chunk.css",
+    "static/js/main.9a3d5e1e.chunk.js"
+  ]
+}
